@@ -39,7 +39,7 @@ A ideia do sistema não é ser desafiador nos dados, os dados tendem a ser fáce
 
 Traços únicos são traços que seu personagem pode ter para lhe dar vantagens ou desvantagens, você inicia seu personagem com 2 pontos de traços únicos, isso significa que você pode escolher 1 traço único que te dê 2 pontos de vantagem em determinada situação ou 2 traços que te dão 1 ponto, os traços tem a obrigação de serem específicos o suficiente para não exagerar
 
-Exemplo em uma campanha com magia e cavaleiros você não pode ser o grande mago que toda magia que faz ganha 2 pontos, mas pode ser mestre de magias de fogo, ou de controle mental, ou de invocação, então no tipo específico de magia você ganhará 2 pontos, você não pode ser o grande cavaleiro que só por ser cavaleio já ganha os 2 pontos bonus por jogada, mas pode ser perito em espada longa com as duas mãos.
+Exemplo em uma campanha com magia e cavaleiros você não pode ser o grande mago que toda magia que faz ganha 2 pontos, mas pode ser mestre de magias de fogo, ou de controle mental, ou de invocação, então no tipo específico de magia você ganhará 2 pontos, você não pode ser o grande cavaleiro que só por ser cavaleiro já ganha os 2 pontos bonus por jogada, mas pode ser perito em espada longa com as duas mãos.
 
 ### Desvantagens de traços únicos
 
@@ -54,3 +54,29 @@ O sistema está preparado para isso, vocês podem montar sua classe e/ou raça, 
 O máximo que você deve por de pontuação em uma raça é 2
 
 Classes não podem mexer em atributos, mas podem dar vantagens e desvantagens, a classe não pode ser uma vantagem ou desvantagem em si, mas ela pode ser o gatilho, exemplo eu não ganho bonus por ser uma paladino, mas por ser um paladino eu posso gastar pontos para em meus poderes de cura ganhar vantagem, a classe acaba sendo mais um artifício interpretativo do que uma vantagem em si
+
+## Como ganhar pontos na aventura?
+
+Quando se começa uma aventura o narrador e os jogadores colocam objetivos e outros objetivos irão surgindo, quando esses objetivos são consquistados os jogadores devem ser recompensados.
+
+Um objetivo curto, uma aventura one shot, um resgate que dura uma sessão ou duas, é interessante dar 1 ponto para os jogadores
+
+Um objetivo de média duração, algo em torna de 3 a 5 sessões, é interessante dar 2 pontos
+
+Um obejtivo a longo prazo, algo em torno de 7 a 12 sessões é interessante dar 5 pontos
+
+Lembrando que sempre há mini objetivos dentro de grandes objetivos, libertar uma cidade de um tirano geralmente é um objetivo a longo prazo, mas durante o progresso missões de salvamento de 1 sessão ocorrem, então até chegar no objetivo maior pontos devem ser dados pelos objetivos menores.
+
+## Como gastar os pontos ganhos?
+
+Foi dito na criação do personagem que você tem 5 pontos de atributos para gastar e 2 em traços únicos, você vai ganhando vantagens e desvantagens de acordo com a aventura, foi dito também que 1 ponto de atributo custa 5 pontos comuns e que você só pode iniciar com o valor máximo de 3 em um único atributo, foi explicado como ganhar pontos durante a história e agora vem a forma de ficar mais forte.
+
+Para comprar um ponto de atributo depois da criação do personagem você deve fazer uma soma simples, o preço de um atributo é 5 mais o valor do atributo, então um atributo que você deixou em 0 ele custará 5, o atributo que você deixou em 1 ele custará 6 e assim por diante.
+
+Os traços únicos custam 1 mais a quantidade de pontos em vantagens e desvantagens usados. Exemplo um personagem que só usou os 2 pontos de vantagem que vem já na criação terá um custo de 3 pontos para conseguir outra vantagem, um personagem que usou os dois pontos, pegou mais 2 pontos de desvantagem e assim comprou mais 2 pontos de vantagem, chegando ao final da criação com 4 pontos de vantagem e 2 de desvantagem irá somar tudo isso e o custo será 1 + 4 pontos de vantagem + 2 pontos de desvantagem = 7 pontos de custo
+
+Caso ele pegou 3 pontos de desvantagem, e usou os 5 pontos para comprar um atributo o valor que ele terá que gastar é 1 + 3 pontos de desvantagem = 4 pontos de custo
+
+Assim você sempre irá somar os pontos das vantagens compradas com os pontos das desvantagens compradas + 1 para ter o valor de uma nova vantagem.
+
+A progressão dessa forma se torna de certa forma fácil no início e com o tempo bem difícil, afinal chegará um momento que perder em uma rolagem será extremamente dificil.
